@@ -1,9 +1,9 @@
 = mailstro
 
-Description goes here.
+Ever want to run Ruby code when you receive an email? Don't feel like setting up your own mail server? Well then, Mailstro might (someday) be the tool for you.
 
 == Contributing to mailstro
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
 * Fork the project
@@ -14,6 +14,5 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Ryan Sandridge. See LICENSE.txt for
-further details.
-
+Copyright (c) 2010 Ryan Sandridge.
+See "LICENSE.txt":https://github.com/dissolved/mailstro/raw/master/LICENSE.txt for further details.
